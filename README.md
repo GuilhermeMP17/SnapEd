@@ -1,2 +1,2 @@
-# spacex
-Site de empresa educacional
+# SnapEd 
+SnapEd Interação Escola e Mundo Dígital
